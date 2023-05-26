@@ -1,1 +1,1 @@
-this is my repositiry where i have kept all the python file whic i pratice in my class
+this is my repositiry where i have kept all the python file whic i pratice 
